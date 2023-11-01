@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.header{
+    border: solid red 3px;
+    background:rgb(175, 107, 51);
+    text-align: center;
+}
+
+.shop-img{
+    border-radius: 10px;
+}
+
+.shop-img2{
+    border-radius: 10px;
+    width:80%;
+}
+
+.central-sections{
+    margin-top: 50px;
+}
+
+.sliding-section{
+    text-align: center;
+
+
+    margin-top: 80px;
+    margin-bottom:80px;
+    border:solid green 2px;
+}
+
+.text-top{
+    padding-left: 30px;
+}
+
