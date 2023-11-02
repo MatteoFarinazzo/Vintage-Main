@@ -63,3 +63,12 @@
     top: 15%;
     height: auto;
   }
+
+  .img-width{
+    width: 80em;
+    height: 40em;
+  }
+
+  .mg{
+    margin: 0 auto;
+  }
